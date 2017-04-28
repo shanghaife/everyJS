@@ -19,4 +19,4 @@
 
 ## NAV/导航树
 
-1. [字符串的正确截取]()
+1. [字符串的正确截取](https://github.com/shanghaife/everyJS/blob/master/project/04.28%E8%8E%B7%E5%8F%96%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%95%BF%E5%BA%A6/%E9%A2%98%E7%9B%AE%EF%BC%882017.4.28%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E9%95%BF%E5%BA%A6%EF%BC%89.md)
